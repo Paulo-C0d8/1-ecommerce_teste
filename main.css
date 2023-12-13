@@ -1,0 +1,207 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 970px;
+}
+
+.container header {
+    background-color: #d4c7be;
+    color: black;
+    padding: 40px;
+}
+
+header {
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+}
+
+header button {
+    background-color: #f1edf1;
+}
+
+header button {
+    border-radius: 18px;
+    padding: 6px;
+    margin: -8px 4px;
+}
+
+.menu li {
+    display: inline;
+    float: left;
+}
+
+.menu button {
+    border-color: #ce6140;
+}
+
+.menu a {
+    color: #2d2d2b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.menu a {
+    margin: 8px;
+    text-decoration: none;
+    padding: 0 12px;
+}
+
+.perso li {
+    display: inline;
+    float: right;
+}
+
+.perso button {
+    border-color: #e45b32;
+}
+
+.perso a {
+    color: #2d2d2b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.perso a {
+    margin: 8px;
+    text-decoration: none;
+    padding: 0 12px;
+}
+
+section .container h1 {
+    padding: 20px 0;
+    text-align: center;
+    background-color: rgb(190, 165, 129);
+    font-family: 'Whisper', cursive;
+    font-size: 32px;
+}
+
+.container img {
+    height: 380px;
+}
+
+section .mo-da {
+    padding: 12px; 
+}
+
+.mo-da section {
+    display: flex;
+    text-align: center;
+}
+
+section .mo-da {
+    background-color: #e2dbc4;
+} 
+
+section h2 {
+    font-family: 'Kalnia', serif;
+    font-size: 28px;
+    padding: 8px;
+}
+
+section div h2 {
+    padding: 18px;
+}
+
+section p {
+    font-size: 15px;
+    color: rgb(40, 54, 1);
+    padding: 12px;
+}
+
+.mo-da button {
+    background-color: #ce6140;
+    color: white;
+    border-color: blueviolet;
+}
+
+.mo-da button {
+    padding: 6px;
+    margin: 8px 4px;
+    cursor: pointer;
+    border-radius: 18px;
+    outline-style: groove;
+}
+
+.update {
+    padding: 12px;
+} 
+
+section #up {
+    background-color: #c7937bd7;
+}
+
+section #up h2 {
+    text-align: center;
+    background-color: #ecb59cd7;
+}
+
+.update {
+    display: flex;
+}
+
+.update h3#du {
+    padding: 12px;
+    margin-left: 18px;
+}
+
+h3#du {
+    color: #330603d7;
+}
+
+.update section{
+    padding: 4px 16px;
+}
+
+form {
+    padding: 12px;
+}
+
+form input,
+textarea {
+    display: block;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 18px;
+    border-color: #eba281d7;
+    resize: none;
+}
+
+section #link {
+    margin-left: 764px;
+}
+
+#link {
+    text-align: center;
+}
+
+.update li {
+    padding: 12px 0;
+}
+
+.update div li {
+    display: flex;
+}
+
+section #re {
+    margin-left: 714px;
+    margin-right: 50px;
+}
+
+section #re p {
+    font-weight: bold;
+    padding: 10px 0;
+}
+
+#re h3 {
+    padding: 8px 0;
+}
+
+#re img {
+    height: 32px;
+    margin: 8px 8px;
+}
+
